@@ -1,0 +1,14 @@
+POST http://localhost:3020/log-in
+Content-type: application/json
+
+{
+    "username": "jinwei",
+    "password":"Hello SIT323"
+}
+###
+GET  http://localhost:3020/home-page
+authorization: Bearere eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImppbndlaSIsImlhdCI6MTY3OTk4MTY0NywiZXhwIjoxNjc5OTgxNjc3fQ.pqZuifqHjZy7dQO1ZEKxp0lyCS97xC_c7-iadTJKois
+
+
+ 
+  
