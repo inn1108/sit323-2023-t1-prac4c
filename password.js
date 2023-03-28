@@ -16,7 +16,7 @@ app.post('/log-in', (req, res) => {
       jwt.sign(
           { username },
           jwtKey,
-          { expiresIn: '30s' }, 
+          { expiresIn: '100s' }, 
         (err, token) => {
           res.json({ username, password, message: 'log-in is successfuly ', token });
         }

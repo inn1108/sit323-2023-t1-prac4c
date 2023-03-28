@@ -7,7 +7,7 @@ Content-type: application/json
 }
 ###
 GET  http://localhost:3020/home-page
-authorization: Bearere eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImppbndlaSIsImlhdCI6MTY3OTk4MTY0NywiZXhwIjoxNjc5OTgxNjc3fQ.pqZuifqHjZy7dQO1ZEKxp0lyCS97xC_c7-iadTJKois
+authorization: Bearere eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImppbndlaSIsImlhdCI6MTY3OTk4Mjk4NCwiZXhwIjoxNjc5OTgzMDg0fQ.cGj8TP_GEeFOIid_28qOABMroEmJOzRpyctGBIrxiRs
 
 
  
