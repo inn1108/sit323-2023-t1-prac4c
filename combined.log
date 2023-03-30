@@ -1,0 +1,13 @@
+{"level":"info","message":"Paramenters 1 and 4 received for addition","service":"calculate-service"}
+{"level":"info","message":"Paramenters 1 and 4 received for subtraction","service":"calculate-service"}
+{"level":"info","message":"Paramenters 1 and 4 received for addition","service":"calculate-service"}
+{"level":"info","message":"Paramenters 1 and 4 received for multiplication","service":"calculate-service"}
+{"level":"error","message":"n1 incorrectly defined remove error data ","service":"calculate-service"}
+{"level":"error","message":"n1 incorrectly defined remove error data ","service":"calculate-service"}
+{"level":"error","message":"n1 incorrectly defined remove error data ","service":"calculate-service"}
+{"level":"error","message":"n1 incorrectly defined remove error data ","service":"calculate-service"}
+{"level":"error","message":"n1 incorrectly defined remove error data ","service":"calculate-service"}
+{"level":"info","message":"Paramenters 2 and 20 received for multiplication","service":"calculate-service"}
+{"level":"info","message":"Paramenters answer 2 and 20 received for division","service":"calculate-service"}
+{"level":"error","message":"n1 incorrectly defined try again","service":"calculate-service"}
+{"level":"error","message":"n1 incorrectly defined try again","service":"calculate-service"}
